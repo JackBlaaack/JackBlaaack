@@ -2,31 +2,24 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
-  <a href="https://www.linkedin.com/in/lambotik/">
+  <a href="https://www.linkedin.com/in/evgeniy-lapytko/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=lambotik&style=flat-square&color=blue" alt=""/>
 
-## I'm looking for QA/AQA Test Engineer position
-## If you visit my page, put a ⭐ to the project that you like. Don't be lazy ))) 
+## I'm QSoftware QA Engineer | Web | Mobile | Automation QA | JavaScript | Cypress 
     
-I am most interested in automation in Python and I am developing in this direction. Attentive to details, I appreciate the quality in everything. I am constantly developing and striving for new knowledge. I have had a lot of gaming experience in the past.    
-
+Quality Assurance Engineer with competentions in testing mobile and
+web applications, have deep knowledge in theory of testing. I'm
+interested in JavaScript and autotests in Postman
   
 ### My certificates:
-- [Python Programming Indie Course:](https://stepik.org/users/399345252/profile)
-- [Programming in Python from Scratch + Working with SQL:](https://stepik.org/cert/2122176)
-- [Generation Python a course for beginners:](https://stepik.org/cert/1165429)
-- [Web Development for Beginners HTML and CSS:](https://stepik.org/cert/1436844)
-- [Test Automation with Selenium and Python:](https://stepik.org/cert/1471860)
-- [Software Testing Postman for API Testing:](https://stepik.org/cert/1670603)
-- [Programming in Python](https://stepik.org/cert/1566540)
-- [Load testing software with Jmeter](https://drive.google.com/file/d/195E_SwXuM6i6fRQuHCrQ4yXhg6li2mBL/view?usp=share_link)
-- [Software Testing: Preparing for ISTQB Foundation Certification](https://stepik.org/cert/1938527)
-- [Software Testing: Automation and Programming.Python.Selenium](https://stepik.org/cert/1924453)
-- [Software Testing: Automation and Python Programming. API](https://stepik.org/cert/2010928)
-- [The testing universe, or how to become a tester](https://stepik.org/cert/2019000)
+- [Основы Тестирования ПО] (https://www.linkedin.com/in/evgeniy-lapytko/details/featured/1635492761654/single-media-viewer/?profileId=ACoAADirxJEBu7y5BCkQtllHKS0juPveF-IvGLM)
+- [Тестирование ПО с нуля до Специалиста] (https://stepik.org/cert/1984285)
+- [Jira: ведение задач на электронных досках](https://stepik.org/cert/2030310)
+- [Интерактивный тренажер по SQL](https://stepik.org/cert/2018670)
+- [Postman для тестирования API](https://stepik.org/cert/1988654)
 
 ### Examples of the Test documentation:
 - [Checking the mail service Mail.ru](https://docs.google.com/spreadsheets/d/1IoD-eYXth18YQuJX2JLjXADJhmYKnxmEeGO8kTmifmU/edit?usp=sharing) 
