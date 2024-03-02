@@ -15,25 +15,14 @@ web applications, have deep knowledge in theory of testing. I'm
 interested in JavaScript and autotests in Postman
   
 ### My certificates:
-- [Основы Тестирования ПО] (https://www.linkedin.com/in/evgeniy-lapytko/details/featured/1635492761654/single-media-viewer/?profileId=ACoAADirxJEBu7y5BCkQtllHKS0juPveF-IvGLM)
-- [Тестирование ПО с нуля до Специалиста] (https://stepik.org/cert/1984285)
+- [Основы Тестирования ПО](https://www.linkedin.com/in/evgeniy-lapytko/details/featured/1635492761654/single-media-viewer/?profileId=ACoAADirxJEBu7y5BCkQtllHKS0juPveF-IvGLM)
+- [Тестирование ПО с нуля до Специалиста](https://stepik.org/cert/1984285)
 - [Jira: ведение задач на электронных досках](https://stepik.org/cert/2030310)
 - [Интерактивный тренажер по SQL](https://stepik.org/cert/2018670)
 - [Postman для тестирования API](https://stepik.org/cert/1988654)
 
-### Examples of the Test documentation:
-- [Checking the mail service Mail.ru](https://docs.google.com/spreadsheets/d/1IoD-eYXth18YQuJX2JLjXADJhmYKnxmEeGO8kTmifmU/edit?usp=sharing) 
-- [Test Task from Paralect](https://docs.google.com/spreadsheets/d/1jUZngkI-eoNW3pbPcaVPpXuV3KgU1jPMCqQ8hSj28rA/edit?usp=sharing)
-- [Test Task from SuperLevel](https://docs.google.com/spreadsheets/d/1QvQA8W6cZhB5Too8wAi1FdTLdUQXqHPz2AgmZExPyXQ/edit?usp=sharing)
-- [Test task from hoster.by](https://docs.google.com/spreadsheets/d/1xzm2YOAZx0ll5KSULV3Z0fygkcbB8M-izoeZCEJf3Lg/edit?usp=sharing)
-
-
 ### :hammer_and_wrench: Languages and Tools :
-
-![PyCharm](https://img.shields.io/badge/-PyCharm-090909?style=plastic&logo=PyCharm&logoColor=47C5FB)
-![Python](https://img.shields.io/badge/-Python-090909?style=plastic&logo=Python&logoColor=47C5FB)
 ![GitHub](https://img.shields.io/badge/-GitHub-090909?style=plastic&logo=GitHub&logoColor=47C5FB)
-![Selenium](https://img.shields.io/badge/-Selenium-090909?style=plastic&logo=Selenium&logoColor=47C5FB)
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=plastic&logo=HTML5&logoColor=47C5FB)
 ![CSS3](https://img.shields.io/badge/-CSS3-090909?style=plastic&logo=CSS3&logoColor=47C5FB)
 ![JSON](https://img.shields.io/badge/-JSON-090909?style=plastic&logo=JSON&logoColor=47C5FB)
