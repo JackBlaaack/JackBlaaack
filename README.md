@@ -10,7 +10,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=JackBlaaack&style=flat-square&color=blue" alt=""/>
 
-## I'm QSoftware QA Engineer | Web | Mobile | Automation QA | JavaScript | Cypress 
+## I'm Software QA Engineer | Web | Mobile | Automation QA | JavaScript | Cypress 
     
 Quality Assurance Engineer with competentions in testing mobile and
 web applications, have deep knowledge in theory of testing. I'm
