@@ -48,11 +48,11 @@ interested in JavaScript and autotests in Postman
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lambotik&theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JackBlaaack&theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 
 ## :bar_chart:Git stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lambotik&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lambotik&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lambotik&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JackBlaaack&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JackBlaaack&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JackBlaaack&theme=tokyonight)
