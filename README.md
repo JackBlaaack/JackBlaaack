@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=i am your best friend - QA Engineer)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=i+ am +your +best friend -+ QA+ Engineer)](https://git.io/typing-svg)
   <div id="badges">
   <a href="https://www.linkedin.com/in/evgeniy-lapytko/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
